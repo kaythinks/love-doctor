@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>Welcome To The Love Clinic ! </h1>
-    <p>by <a style="color:white !important" href="https://github.com/kaythinks">@Kaythinks</a> <span> --- on Github</span></p>
+    <p>by <a style="color:white; !important" href="https://github.com/kaythinks">@Kaythinks</a> <span> --- on Github</span></p>
     <h3>It's {{this.$moment().format('dddd, MMMM Do ,YYYY')}} </h3>
     <label>Him</label>
     <input
